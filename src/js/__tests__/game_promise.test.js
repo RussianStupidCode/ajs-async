@@ -1,4 +1,4 @@
-import GameSavingLoader from '../game_async';
+import GameSavingLoader from '../game_promise';
 import read from '../reader';
 
 jest.mock('../reader');
